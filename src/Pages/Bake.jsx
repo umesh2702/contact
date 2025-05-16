@@ -209,7 +209,7 @@ const Bake = () => {
         </div>
         <div className="container">
           <div className="footer-content">
-            <p className="copyright">&copy; {new Date().getFullYear()} Crumb & Co. All rights reserved.</p>
+            <p className="copyright">&copy; {new Date().getFullYear()} SugarTwistBakes. All rights reserved.</p>
           </div>
         </div>
       </footer>
